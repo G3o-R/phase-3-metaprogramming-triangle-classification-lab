@@ -55,3 +55,5 @@ A valid triangle must meet the following criteria:
 
 - [Exception Handling](http://www.skorks.com/2009/09/ruby-exceptions-and-exception-handling/)
 - [Basic Mathematics](http://www.basic-mathematics.com/) - [Types of Triangles](http://www.basic-mathematics.com/types-of-triangles.html)
+
+https://github.com/G3o-R/phase-3-metaprogramming-triangle-classification-lab
